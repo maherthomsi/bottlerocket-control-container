@@ -1,3 +1,23 @@
+# 0.8.10
+
+* Update SSM version to 3.3.3270.0
+
+# 0.8.9
+
+* Update SSM version to 3.3.3185.0
+
+# 0.8.8
+
+* Update SSM version to 3.3.3050.0
+
+# 0.8.7
+
+* Rebuilt to get the latest AL2 updates.
+
+# 0.8.6
+
+* Update SSM agent to 3.3.2746.0.
+
 # 0.8.5
 
 * Rebuilt to get the latest AL2 updates.
