@@ -1,3 +1,8 @@
+# 0.21.4
+
+* Update SSM version to 3.3.4851.0
+* Update amazon-ssm-agent gpg public key
+
 # 0.21.3
 
 * Update SSM version to 3.3.4793.0
